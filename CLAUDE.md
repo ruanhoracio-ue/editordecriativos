@@ -38,4 +38,4 @@ O usuário quer que cada vídeo use informações, fotos e vídeos reais buscado
 - Guardar o material em `referencias/<nome-do-video>/` com um `fontes.md` contendo URL, autor, data e onde foi usado no vídeo.
 - Mostrar atribuição legível na tela quando o material for de terceiros. Preferir fontes oficiais, imprensa, páginas do próprio produto ou licenças livres.
 - Nunca inventar imagem e apresentar como real. Se não achar, dizer e pedir link ou arquivo.
-- Vídeos do YouTube e similares: não há yt-dlp instalado; se for necessário, pedir ao usuário antes de instalar ou pedir o arquivo.
+- Vídeos do YouTube/TikTok/Instagram: `work/baixar.py URL pasta [ini fim] [nome]` (yt-dlp local em `ferramentas/pydeps`, instalado em 15/09/2026 com autorização). Baixar só o trecho necessário.

@@ -11,7 +11,8 @@ Importar este contexto não é um pedido para gerar, revisar ou renderizar um v�
 
 ## DOIS PADRÕES — perguntar-se qual antes de editar
 
-- **Reels (estilo Tessmann)**: as REGRAS VIGENTES abaixo. Tela dividida, imagens da internet em cima, lettering em tela cheia, SF Pro Bold, verde #12CB87.
+- **Reels (padrão atual, 15/09/2026)**: `references/padrao-reels-2.md`, medido nos vídeos que ele mesmo editou. Tela dividida do quadro 1 até ~60 % do vídeo com imagens/vídeos reais em cima (TikTok, YouTube, notícias, prints) trocando a cada 2–3 s, sem título; flash quente de 0,37 s e apresentador em tela cheia até o fim; legenda TikTok Sans Medium ~59 px tracking −30, na divisória / em 58 % na cheia, blocos de 1–3 palavras (~0,7 s). Pedido: "quero exatamente igual".
+- **Reels (estilo antigo, referências 1–7)**: as REGRAS VIGENTES abaixo (lettering em tela cheia, SF Pro Bold, verde #12CB87). Só usar se ele pedir explicitamente.
 - **Criativos (anúncios)**: `references/padrao-criativos.md`. Apresentador em tela cheia fechada, TikTok Sans, legenda curta trocando a cada ~1 s, gancho de ~4 s em dividida com clipes reais e título Bold 64 px na divisória, sem cor de destaque, sem grafismo. Definido em 15/09/2026 a partir de `references/criativos-1-referencia.mp4`, pedido: "copia exatamente igual". **Criativos têm duas variantes, dividida ou inteira — perguntar ao usuário antes de cada edição** (pedido dele em 15/09/2026). Quando o bruto for pra criativo, seguir esse arquivo e ignorar as regras de Reels que conflitarem (legenda, cor, lettering, área de cima).
 
 ## REGRAS VIGENTES — ler isto primeiro
