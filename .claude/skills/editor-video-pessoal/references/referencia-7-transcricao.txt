@@ -1,0 +1,170 @@
+[   0.00-   3.74] Eu vou te mostrar agora na prática como você pode usar inteligência artificial
+[   3.74-   5.78] para poder fazer edição de vídeo dinâmica.
+[   5.90-  10.76] Inclusive, todos os elementos que você vai estar vendo aqui nesse vídeo foram feito dessa forma.
+[  10.90-  14.72] Mas para conseguir entender o que está acontecendo aqui, você precisa entender a evolução.
+[  15.10-  18.34] Antigamente, editar vídeos era literalmente cortar filmes.
+[  18.52-  23.60] Aí veio o digital com ferramentas como CapCut, Premiere, DaVinci Resolve, After Effects
+[  23.60-  26.34] e a gente passou a editar vídeos através de um interface.
+[  26.64-  29.10] Só que ainda existia uma barreira muito grande, a técnica.
+[  29.10-  31.38] Para fazer animações e uma edição mais dinâmica,
+[  31.54-  34.20] você precisaria entender a ferramenta, saber onde clicar,
+[  34.62-  37.44] passar vezes ou até anos estudando para ficar bom naquilo.
+[  37.68-  39.56] Agora a gente está entrando em uma terceira fase.
+[  39.90-  42.24] A nova interface de criação é a linguagem.
+[  42.42-  45.46] E eu passei praticamente em 2026 inteiro estudando
+[  45.46-  48.76] como eu poderia estar direcionando melhor a inteligência artificial
+[  48.76-  52.22] para criar um monstro design e uma edição mais profissional.
+[  52.50-  54.50] E eu percebi que para eu ter um resultado melhor,
+[  54.88-  56.60] não era só pedir alguma coisa,
+[  56.60-  59.40] mas eu precisaria saber direcionar melhor ela.
+[  59.62-  60.90] Então o que eu quero te mostrar aqui
+[  60.90-  63.50] é exatamente o processo que eu usei para fazer esse vídeo.
+[  63.74-  65.16] E a primeira etapa é a ideia.
+[  65.52-  66.94] Antes de eu ir fazer qualquer coisa,
+[  67.08-  68.76] eu preciso saber o que eu quero comunicar.
+[  69.06-  71.40] Nesse vídeo aqui, eu escrevi tudo que eu queria gravar.
+[  71.66-  74.00] E não que você precise fazer isso também.
+[  74.38-  76.64] Você pode simplesmente ligar a câmera e falar.
+[  76.94-  79.86] Mas eu fiz isso porque eu queria ter clareza sobre os meus pensamentos
+[  79.86-  82.46] para falar exatamente tudo que eu estou dizendo aqui para você.
+[  82.70-  84.72] E depois disso, eu gravei o vídeo normalmente aqui.
+[  84.72-  86.62] E a segunda etapa é a preparação.
+[  86.80-  88.00] Eu faço uma coisa bem simples.
+[  88.26-  91.16] Eu corto o vídeo para deixar exatamente no ritmo de fala
+[  91.16-  93.74] que eu quero, com a respiração que eu quero.
+[  94.00-  95.98] E aí, a poderia fazer isso para mim? Poderia.
+[  96.28-  98.02] Mas eu quero ter esse controle manual
+[  98.02- 100.92] de como que está sendo o ritmo do que eu estou falando para você.
+[ 101.20- 102.44] E isso é uma decisão minha.
+[ 102.72- 105.16] E depois disso, eu faço a legenda desse vídeo.
+[ 105.28- 107.94] Porque quando eu uso o software como o Premiere,
+[ 108.36- 110.02] eu faço a exportação da legenda
+[ 110.02- 113.36] e ela já vem exatamente com o tempo de cada fala.
+[ 113.36- 116.12] E isso é extremamente importante para poder a IA entender
+[ 116.12- 119.26] exatamente o que eu estou falando em cada momento do vídeo.
+[ 119.50- 120.16] Então, imagina o seguinte.
+[ 120.42- 121.82] A IA, ela vai receber o vídeo
+[ 121.82- 124.28] e vai receber um mapa de tudo o que está sendo falado
+[ 124.28- 125.66] exatamente em cada momento.
+[ 125.86- 127.94] E aí vem a terceira etapa que é muito importante,
+[ 127.96- 129.10] que é a organização.
+[ 129.46- 132.22] Depois que você salvou esse vídeo, salvou essa legenda,
+[ 132.86- 134.94] deixe muito bem organizados os seus arquivos
+[ 134.94- 137.74] para que a IA possa trabalhar dentro dessa pasta.
+[ 138.08- 139.52] Assim, você vai ter uma organização
+[ 139.52- 140.98] sobre tudo o que você está criando.
+[ 140.98- 143.74] Não vai salvar em Daulons, não vai salvar em Paixa Aleatória,
+[ 144.08- 145.60] senão você vai acabar se perdendo
+[ 145.60- 147.50] dentro das suas ideias,
+[ 147.58- 149.18] dentro das coisas que você deve fazer.
+[ 149.44- 151.62] E agora vem a quarta etapa e mais importante
+[ 151.62- 152.78] que é a direção.
+[ 153.12- 154.60] Eu simplesmente não vou chegar para a IA
+[ 154.60- 156.44] e falar, ó, edita esse vídeo aqui para mim.
+[ 156.82- 157.34] O que é que acontece?
+[ 157.74- 159.60] Eu estou utilizando o ChatPT6.
+[ 160.00- 161.64] No momento que você está assistindo esse vídeo,
+[ 161.72- 163.88] podem ter uma IA mais inteligente.
+[ 164.24- 165.64] Só que agora, como eu estou usando esse modelo,
+[ 166.02- 168.74] eu estou usando ela dentro do Codex.
+[ 168.74- 171.42] E lá dentro, eu posso mencionar exatamente
+[ 171.42- 173.74] a pasta que eu salvei os arquivos,
+[ 174.06- 175.40] o nome desse arquivo,
+[ 175.52- 177.76] para ela poder usar exatamente eles.
+[ 178.12- 179.90] Eu vou dar um direcionamento
+[ 179.90- 182.60] exatamente do que eu quero que ela possa estar
+[ 182.60- 183.96] ilustrando nesse vídeo.
+[ 184.26- 185.22] Então, ah, eu quero que,
+[ 185.42- 187.70] em determinados momentos de frase com mais efeito,
+[ 187.96- 189.62] você coloque animações de letra.
+[ 189.82- 191.14] Em momentos que eu estou explicando
+[ 191.14- 193.20] alguma coisa mais conceitual,
+[ 193.34- 194.40] você coloca em uma imagem.
+[ 194.60- 195.80] Em momentos que eu estou explicando
+[ 195.80- 197.00] sobre numeração,
+[ 197.00- 199.60] você coloca algo mais ilustrativo.
+[ 199.82- 202.32] Assim, ela consegue entender o que eu quero
+[ 202.32- 205.00] e vai aplicar aquilo diretamente no vídeo.
+[ 205.18- 206.64] Então, a partir desse direcionamento,
+[ 206.64- 209.04] ela vai começar a fazer todo o trabalho dela.
+[ 209.20- 210.60] E dependendo do tempo do vídeo,
+[ 210.66- 212.76] seja o vídeo de 20 segundos, 30 segundos,
+[ 212.84- 213.86] ou por exemplo, como esse,
+[ 213.98- 215.84] que provavelmente deve ter uns 4 minutos,
+[ 216.38- 217.36] o tempo vai ser maior,
+[ 217.62- 219.04] o gasto de Tolkien vai ser maior.
+[ 219.28- 220.76] E esse tempo que ela tiver fazendo o trabalho,
+[ 220.86- 222.48] você usa para aproveitar para você,
+[ 222.62- 223.62] para você se cuidar,
+[ 223.88- 225.20] para você aproveitar a sua família,
+[ 225.20- 228.16] para você se evoluir intelectualmente.
+[ 228.48- 230.70] Porque durante esse tempo ela vai estar fazendo a edição.
+[ 231.10- 233.76] E agora, a forma como ela é dita é bem diferente,
+[ 233.96- 235.18] é através de código.
+[ 235.42- 238.42] Isso aqui é algo para poder falar em um outro vídeo.
+[ 238.60- 241.16] E a partir do momento que ela te entregar o primeiro resultado,
+[ 241.42- 244.30] você vai entender se aquilo ali está bom ou não.
+[ 244.48- 246.96] Porque é aí que a gente entra na quinta e última etapa,
+[ 247.00- 248.12] que é o refinamento.
+[ 248.28- 250.42] O futuro da criação será a humanidade
+[ 250.42- 253.26] direcionando a IA com o seu senso crítico,
+[ 253.26- 254.44] o seu bom gusto,
+[ 254.60- 258.56] e sabendo como você pode expressar melhor tudo que você está querendo.
+[ 258.84- 262.28] Então, se você ficou satisfeito com o primeiro resultado que ela te entregou,
+[ 262.58- 262.80] top,
+[ 263.18- 265.16] mas tem pessoas que, por exemplo, como eu,
+[ 265.88- 269.04] sempre vão buscar fazer com que ela melhore mais a minha qualidade.
+[ 269.32- 271.76] Assim como eu terei que fazer algo manualmente,
+[ 271.86- 272.94] eu posso pensar, putz,
+[ 273.30- 274.40] eu posso melhorar esse resultado?
+[ 274.66- 274.90] Posso,
+[ 275.04- 276.98] só que eu teria que me dedicar mais tempo.
+[ 277.30- 278.30] Só que agora com a IA,
+[ 278.46- 280.60] já que ela tem a capacidade de fazer qualquer coisa,
+[ 280.98- 282.82] eu posso direcionar para ela fazer um trabalho
+[ 282.82- 283.88] ainda melhor.
+[ 284.20- 286.20] Então, se você acha que pode melhorar
+[ 286.20- 287.44] tanto a nível de design,
+[ 287.76- 288.48] de hierarquia,
+[ 288.84- 290.08] de ilustrações,
+[ 290.64- 291.98] dá esse direcionamento para ela.
+[ 292.28- 293.58] Explica o que você quer.
+[ 293.86- 295.76] Eu quero que tenha uma animação de texto
+[ 295.76- 297.64] entrando, deixa o like,
+[ 297.92- 299.24] da esquerda para a direita.
+[ 299.54- 300.02] Depois,
+[ 300.20- 302.42] vai aparecer um botão
+[ 302.42- 302.70] com
+[ 302.70- 304.34] se inscreva no canal,
+[ 304.64- 306.40] e aí vai ter uma animação se inscrevendo.
+[ 306.54- 309.06] Vai ter depois uma animação de caixa de texto
+[ 309.06- 310.86] para a pessoa comentando alguma coisa.
+[ 311.16- 312.40] Então, esse direcionamento
+[ 312.40- 314.88] faz com que a IA entenda o que está acontecendo
+[ 314.88- 317.30] e vai estar ilustrando exatamente isso nesse vídeo
+[ 317.30- 318.74] para você poder ver.
+[ 319.02- 320.88] Então, tudo o que você quiser criar a IA
+[ 320.88- 321.76] vai fazer para você
+[ 321.76- 322.66] no seu vídeo
+[ 322.66- 324.10] ou em qualquer outra coisa.
+[ 324.34- 325.80] A barreira técnica de criação
+[ 325.80- 327.08] está diminuindo cada vez mais.
+[ 327.46- 328.30] E o que importa agora
+[ 328.30- 329.74] é você saber pensar
+[ 329.74- 331.04] e expressar
+[ 331.04- 332.48] exatamente aquilo que você quer.
+[ 332.76- 333.92] Tendo um bom repertório
+[ 333.92- 336.22] e um bom gosto para decidir se aquilo ali
+[ 336.22- 337.20] está bom ou não
+[ 337.20- 338.08] para você.
+[ 338.50- 339.34] Então, se esse vídeo aqui
+[ 339.34- 340.18] fez sentido para você,
+[ 340.38- 340.94] comenta aqui,
+[ 341.12- 341.62] deixa o like,
+[ 341.62- 343.64] porque depois eu posso estar fazendo
+[ 343.64- 345.26] um outro vídeo ainda mais detalhado
+[ 345.26- 345.84] passo a passo.
+[ 346.06- 347.16] Aqui foi só um exemplo
+[ 347.16- 349.40] de tudo o que é capaz de ser feito.
+[ 349.70- 349.94] Fechou?
+[ 350.24- 350.52] Tamo junto.
